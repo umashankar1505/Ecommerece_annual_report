@@ -1,6 +1,6 @@
 # Excel E-commerce dashboard
 
- This Excel dashboard provides key insights that can help in Analysing the annual sales performance using E commerce Platform.
+ This Excel dashboard provides key insights that help analyze the annual sales performance on the e-commerce platform.
  
  Key Components and Analysis:
  
