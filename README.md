@@ -2,7 +2,8 @@
 
  This Excel dashboard provides key insights that can help in Analysing the annual sales performance using E commerce Platform.
  
- #Key Components and Analysis:
+ Key Components and Analysis:
+ 
  1.There is a peak sales  around June and July, with a gradual decline afterward. This indicate a seasonal trend, such as a 
    sales spike during mid-year due to events or promotions.
  2.Maharashtra is top performing state around 2.98M in sales, followed by Karnataka and Uttar Pradesh.
